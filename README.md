@@ -12,7 +12,7 @@ Futatsuna.item generates "〇〇なる〇〇"
 Futatsuna.item #=> "楠見なる幅広"
 ```
 
-Futatsuna.name generates "〇〇の▲▲A"
+Futatsuna.name generates "〇〇の▲▲"
 
 ```
 Futatsuna.name #=> "伝授の杉田"
