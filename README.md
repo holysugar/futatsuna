@@ -23,7 +23,7 @@ Futatsuna.name #=> "伝授の杉田"
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'futatsuna', github: 'holysugar/futatsuna'
+gem 'futatsuna'
 ```
 
 And then execute:
